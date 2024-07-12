@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/VexoAnalytics-umbrella.h</key>
 		<data>
-		HWZw4AOwz/89TlWNzBp88Jc1Xqw=
+		p07UHSecLVqNhfk4+eN0ousaNyI=
 		</data>
 		<key>Headers/VexoAnalytics.h</key>
 		<data>
-		j5ehW/sEqFYnmQ6k4exTQwmz1EE=
+		x0VQpp+odpYe1EY/1+a2qbGafOo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Pyo2BIjDAofv9WrS6HE2auM90bA=
+		rqXeHOjlifJDCHCKu3jWqwfEZS8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		V/BoDvLPsjPWm1KviPEZt/Gj6nk=
+		3RwsSTBh5+uWO2Zbntq6hwxloqE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,33 +27,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HWZw4AOwz/89TlWNzBp88Jc1Xqw=
+			p07UHSecLVqNhfk4+eN0ousaNyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			8upbbuKQnlnXeNwYDzzkNpUqBEryEuW5ZhA7lFQa5Vg=
+			fj+ciZy5QzTYKG2fQJWpwC99rdLq2LF8sqFJvyfpDtM=
 			</data>
 		</dict>
 		<key>Headers/VexoAnalytics.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j5ehW/sEqFYnmQ6k4exTQwmz1EE=
+			x0VQpp+odpYe1EY/1+a2qbGafOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yush7nr5pc7RixhnS4kVY6Rl+VS3uhSrnt751htxUM0=
+			WeapyBNNE8oBC+nyD1K+W0r7Gmd1sV7gegHp20+NOn4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/BoDvLPsjPWm1KviPEZt/Gj6nk=
+			3RwsSTBh5+uWO2Zbntq6hwxloqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			bwDLer7WyA7weOUBH1h3FcVLxnJZfn3v4HO9Qgbh7nQ=
+			6gXEynpKmWoaJ0iPTdBLDBGkrnkvHtdtg6kaE+ZLBsU=
 			</data>
 		</dict>
 	</dict>
