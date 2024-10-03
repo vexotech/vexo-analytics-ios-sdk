@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/VexoAnalytics.h</key>
 		<data>
-		x0VQpp+odpYe1EY/1+a2qbGafOo=
+		ZweqYCg/krHnsFhCLCcZNFht7lg=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -19,6 +19,10 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		3RwsSTBh5+uWO2Zbntq6hwxloqE=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		pYynN/46olRdJP1KToTh8CyKVm0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -38,11 +42,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x0VQpp+odpYe1EY/1+a2qbGafOo=
+			ZweqYCg/krHnsFhCLCcZNFht7lg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WeapyBNNE8oBC+nyD1K+W0r7Gmd1sV7gegHp20+NOn4=
+			/PbxyTlazimOPklgXUoR3WJo4Vru75AYHIgpkf040oM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -54,6 +58,17 @@
 			<key>hash2</key>
 			<data>
 			6gXEynpKmWoaJ0iPTdBLDBGkrnkvHtdtg6kaE+ZLBsU=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pYynN/46olRdJP1KToTh8CyKVm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			XEOLO6DApc+iKhn3TEgZ85ASNps0cWQ8Ldx9pMCizwQ=
 			</data>
 		</dict>
 	</dict>
