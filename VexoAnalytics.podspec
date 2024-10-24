@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'VexoAnalytics'
-  s.version             = '0.3.0'
+  s.version             = '0.4.0'
   s.summary             = "VexoAnalytics iOS SDK"
   s.description         = "<<-DESC This is not meant to use as a standalone SDK DESC"
   s.homepage            = "https://vexo.co/"
